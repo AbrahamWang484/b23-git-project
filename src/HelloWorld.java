@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Hello git world");
         System.out.println("Nice to meet you !");
         System.out.println("nihao");
+        System.out.println("123");
     }
 }
